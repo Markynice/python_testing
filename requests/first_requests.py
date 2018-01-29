@@ -1,6 +1,6 @@
 import requests
 import sys
 
-login_data = {'username':'Marky1','password': '123456'}
+login_data = {'username':'','': ''}
 
 with requests.Session(config)
